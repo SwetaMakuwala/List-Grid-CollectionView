@@ -1,0 +1,21 @@
+[
+ {
+    "countryName" : "India",
+    "capitalName" : "delhi"
+} ,
+ {
+    "countryName" : "Albania",
+    "capitalName" : "Tirana"
+},
+ {
+    "countryName" : "Algeria",
+    "capitalName" : "Algiers"
+},
+ {  "countryName" : "Andorra",
+    "capitalName" : "Andorra la Vella"
+},
+ {
+    "countryName" : "Afghanistan",
+    "capitalName" : "kabul"
+}
+ ]
